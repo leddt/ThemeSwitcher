@@ -1,0 +1,16 @@
+obj
+bin
+Bin
+logs
+deploy
+deploy/*
+_[rR]e[sS]harper.*
+*.csproj.user
+*.[rR]e[sS]harper.user
+*.[rR]e[sS]harper
+*.suo
+*.cache
+~$*
+Thumbs.db
+dist
+pack
