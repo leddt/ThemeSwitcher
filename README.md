@@ -6,8 +6,9 @@ color settings.
 
 ## Installation
 
-Simply copy ThemeSwitcher.AddIn and ThemeSwitcher.dll in 
-`My Documents\Visual Studio 20xx\Addins` and restart Visual Studio.
+Simply copy ThemeSwitcher.vs2008.AddIn (or ThemeSwitcher.vs2010.AddIn) 
+and ThemeSwitcher.dll in `My Documents\Visual Studio 20xx\Addins` and 
+restart Visual Studio.
 
 ## Usage
 
